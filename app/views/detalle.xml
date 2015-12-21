@@ -1,0 +1,8 @@
+<Alloy>
+	<Window id="win" class="container">		
+		<Label id="title"/>
+		<Label id="year"/>
+		<Button id="closebtn" onClick="closeme">Cerrar/Button>
+		
+	</Window>	
+</Alloy>

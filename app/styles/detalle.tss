@@ -1,0 +1,19 @@
+".container": {
+	backgroundColor: "white",
+	layout:"vertical"
+},
+".detail": {
+	layout:"horizontal"
+},
+"#itemName":{
+	height: Ti.UI.SIZE,
+	left: 0
+},
+"#rowId":{
+	height: Ti.UI.SIZE,
+	left: 0
+},
+"#closebtn":{
+	height: Ti.UI.SIZE,
+	width: Ti.UI.SIZE
+} 

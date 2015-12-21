@@ -1,0 +1,6 @@
+<Alloy>
+	<Window class="container">
+		<SearchBar id="search" onReturn="buscar"></SearchBar>
+		<TableView id="tv" onClick="verDetalle"/>
+	</Window>
+</Alloy>

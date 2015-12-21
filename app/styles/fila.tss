@@ -1,0 +1,15 @@
+"#row":{
+	heigth:60,
+	backgroundColor: 'white'
+},
+"#img":{
+	left:5,
+	width:40,
+	heigth:40
+},
+"#titulo":{
+	left : 60
+}
+"#titulo[plataform=android]":{
+	color: 'grey'
+}

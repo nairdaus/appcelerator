@@ -1,0 +1,20 @@
+".container": {
+	backgroundColor:"white"
+}
+"#search":{
+	barColor:"#white",
+	showCancel:"true",
+	height:"43",
+	top:0
+}
+"#search[plataform=ios]":{
+	top:20
+}
+"#search[palataform=android]":{
+	color: 'grey'
+}
+"#tv":{
+	top:60,
+	height: Ti.UI.FILL,
+	backgroundColor:'transparent'
+}
